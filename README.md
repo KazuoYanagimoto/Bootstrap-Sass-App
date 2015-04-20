@@ -1,2 +1,2 @@
 # Bootstrap-Sass-App
-A basic project template for creating web-apps by Sass-powered version of Bootstrap.
+> A basic project template for creating web-apps by Sass-powered version of Bootstrap.
